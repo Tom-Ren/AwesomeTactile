@@ -58,16 +58,28 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
   <img width="375" alt="mechanical" src="https://user-images.githubusercontent.com/22866605/204254694-c41c7768-b809-4825-ba45-3d6122ffb036.png">
   <br>
   
-- [GelSlim](https://mcubelab.github.io/gelslim/): `A popular open-source compact tactile-sensing Finger with measurement of shape, force and slip.`   :bookmark_tabs: [[paper](https://arxiv.org/pdf/2103.12269.pdf)] [[sight](https://arxiv.org/pdf/1708.00922.pdf)]  [[1.0](https://arxiv.org/pdf/1803.00628.pdf)] [[2.0](https://arxiv.org/pdf/1810.04621.pdf)] [[MPalm](https://arxiv.org/abs/1909.05426)] [[]()] :mortar_board:[[Alberto](http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU)]  [[SiYuan Dong](https://sites.google.com/site/siyuandong000/)] [[Ian H Taylor](https://ianhtaylor.net/)] :inbox_tray: [[resource](https://github.com/mcubelab/gelslim)]  [[1.0](https://mcube.mit.edu/research/gelslim.html)] [[30](https://ianhtaylor.net/gelslim-30)]<br>
+- [GelSlim](https://mcubelab.github.io/gelslim/): `A popular open-source compact tactile-sensing Finger with measurement of shape, force and slip.`   :bookmark_tabs: [[paper](https://arxiv.org/pdf/2103.12269.pdf)] [[sight](https://arxiv.org/pdf/1708.00922.pdf)]  [[1.0](https://arxiv.org/pdf/1803.00628.pdf)] [[2.0](https://arxiv.org/pdf/1810.04621.pdf)] [[MPalm](https://arxiv.org/abs/1909.05426)]  :mortar_board:[[Alberto](http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU)]  [[SiYuan Dong](https://sites.google.com/site/siyuandong000/)] [[Ian H Taylor](https://ianhtaylor.net/)]    :inbox_tray: [[resource](https://github.com/mcubelab/gelslim)]  [[1.0](https://mcube.mit.edu/research/gelslim.html)] [[30](https://ianhtaylor.net/gelslim-30)]<br>
   <img width="460" alt="family" src="https://user-images.githubusercontent.com/22866605/204275215-a13f7978-6963-4a5e-8edf-386a07161c16.png">
   <img width="340" alt="work" src="https://user-images.githubusercontent.com/22866605/204276884-aa38264d-d5b0-483e-a7c2-44d5b440a7a9.png">
   <img width="800" alt="assemble" src="https://user-images.githubusercontent.com/22866605/204276931-23aeff25-cbc3-4939-8246-5b91f3796cf5.png">
   <br>
   
   
-- [Digit]()<br>
-- [Pytouch](https://github.com/facebookresearch/PyTouch)<br>
-- [Tacto](https://github.com/facebookresearch/tacto)<br>
+- [Digit](https://digit.ml/): `An easy-to-use, reliable, low-cost, compact, high-resolution, tactile sensor designed for robotic in-hand manipulation.` :bookmark_tabs: [[paper](https://arxiv.org/abs/2005.14679)]  :octocat:  [[resource](https://github.com/facebookresearch/digit-design)]<br>
+  <img width="455" alt="digit" src="https://user-images.githubusercontent.com/22866605/204284785-a6ac14b1-d879-4769-99f9-d042792b950e.png">
+  <img width="345" alt="Allegro" src="https://user-images.githubusercontent.com/22866605/204285332-0ee7b1e8-3e02-4a7e-8add-e7062394208f.png">
+  <br>
+  
+  
+  
+- [PyTouch](https://github.com/facebookresearch/PyTouch): `A machine learning tools for tactile info (with digit).`  :bookmark_tabs: [[paper](https://arxiv.org/abs/2105.12791)]
+  <img width="800" alt="touch" src="https://user-images.githubusercontent.com/22866605/204287038-97d11995-4aa8-4a2b-b91a-13793f88c3a3.png">
+  <br>
+
+  
+- [Tacto](https://github.com/facebookresearch/tacto): `A simulation environment for vision based tactile sensors.`  :bookmark_tabs: [[paper](https://arxiv.org/abs/2012.08456)]  📪[[community](https://www.touch-sensing.org/)]
+  <img width="800" alt="tacto" src="https://user-images.githubusercontent.com/22866605/204286568-53396b4e-95a5-4e28-83c6-3a2c71196ff6.png">
+  <br>
 <br>
 
 ### ② Elec Serials
