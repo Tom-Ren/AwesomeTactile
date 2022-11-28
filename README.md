@@ -53,17 +53,21 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
   <img width="800" alt="MicrogeometryCapture" src="https://user-images.githubusercontent.com/22866605/204216969-d36de41e-51f1-44e6-abd5-6ffae497ee2d.png">
   <br>
   
-- [GelSight Wedge](http://gelsight.csail.mit.edu/wedge/): `GelSight Wedge sensor, which is optimized to have a compact shape for robot fingers, which can achieve high-resolution 3D reconstruction.` :bookmark_tabs: [[paper](http://gelsight.csail.mit.edu/wedge/ICRA2021_Wedge.pdf)(ICRA21)]
-  <img width="800" alt="Wedge" src="https://user-images.githubusercontent.com/22866605/204221118-577cb2ca-9bf9-4613-99ac-469a5d371a0e.png">
+- [GelSight Wedge](http://gelsight.csail.mit.edu/wedge/): `GelSight Wedge sensor, which is optimized to have a compact shape for robot fingers, which can achieve high-resolution 3D reconstruction.` :bookmark_tabs: [[paper](http://gelsight.csail.mit.edu/wedge/ICRA2021_Wedge.pdf)(ICRA21)]  :mortar_board:  [[ShaoXiong Wang](http://shaoxiongwang.com/)] [[MARS lab](https://www.purduemars.com/)]<br>
+  <img width="425" alt="Wedge" src="https://user-images.githubusercontent.com/22866605/204221118-577cb2ca-9bf9-4613-99ac-469a5d371a0e.png">
+  <img width="375" alt="mechanical" src="https://user-images.githubusercontent.com/22866605/204254694-c41c7768-b809-4825-ba45-3d6122ffb036.png">
+  <br>
+  
+- [GelSlim](https://mcubelab.github.io/gelslim/): `A popular open-source compact tactile-sensing Finger with measurement of shape, force and slip.`   :bookmark_tabs: [[paper](https://arxiv.org/pdf/2103.12269.pdf)] [[sight](https://arxiv.org/pdf/1708.00922.pdf)]  [[1.0](https://arxiv.org/pdf/1803.00628.pdf)] [[2.0](https://arxiv.org/pdf/1810.04621.pdf)] [[MPalm](https://arxiv.org/abs/1909.05426)] [[]()] :mortar_board:[[Alberto](http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU)]  [[SiYuan Dong](https://sites.google.com/site/siyuandong000/)] [[Ian H Taylor](https://ianhtaylor.net/)] :inbox_tray: [[resource](https://github.com/mcubelab/gelslim)]  [[1.0](https://mcube.mit.edu/research/gelslim.html)] [[30](https://ianhtaylor.net/gelslim-30)]<br>
+  <img width="460" alt="family" src="https://user-images.githubusercontent.com/22866605/204275215-a13f7978-6963-4a5e-8edf-386a07161c16.png">
+  <img width="340" alt="work" src="https://user-images.githubusercontent.com/22866605/204276884-aa38264d-d5b0-483e-a7c2-44d5b440a7a9.png">
+  <img width="800" alt="assemble" src="https://user-images.githubusercontent.com/22866605/204276931-23aeff25-cbc3-4939-8246-5b91f3796cf5.png">
   <br>
   
   
-  
-  
-  
-[GelSlim]()<br>
-[Digit]()<br>
-[Pytouch](https://github.com/facebookresearch/PyTouch)
+- [Digit]()<br>
+- [Pytouch](https://github.com/facebookresearch/PyTouch)<br>
+- [Tacto](https://github.com/facebookresearch/tacto)<br>
 <br>
 
 ### ② Elec Serials
