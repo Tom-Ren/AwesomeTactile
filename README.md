@@ -11,7 +11,7 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
 :rocket: [Projects](#ii-projects)<br>
 :robot: [Hardwares](#iii-hardwares)<br>
 :classical_building: [Groups](#iv-groups)<br>
-:bookmark_tabs: [Papers](#v-papers)<br>
+:bookmark_tabs: [Papers](#v-research-papers)<br>
 ---
 
 
@@ -34,20 +34,34 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
 <br>
 
 ### ② Technical pipeline
+  1. (IEEE Sensors Journal) Hardware Technology of Vision-Based Tactile Sensor: A Review** [[paper](https://ieeexplore.ieee.org/document/9911183)]
+  - ```This paper concludes vision-based tactile sensor (VBTS), which consists of a contact module, an illumination module, and a camera module and their preparation process and complete manufacturing scheme. Details are presented, and future outlook are discussed.```<br>
+  <img width="400" alt="vbts" src="https://user-images.githubusercontent.com/22866605/204210884-ee164b17-bda6-487b-a5b4-bf0f86cc7e04.png"><img width="400" alt="principle" src="https://user-images.githubusercontent.com/22866605/204212351-8bcbdfb3-2925-49b7-b774-add8e8f83453.png">
+
 <br>
 
 
 ---
 <br><br>
 ## II. Projects
-balabalab
+`Various tactile sensors are developed in recent years, this part concluded these project to provide technical details for reproduction. Based on the sensor mechanism, they are divide as Gel (vision based), electric (pressure sensitive), and other physical principles (optics, thermal, mechanical, *et al.*)`
 <br>
 
 ### ① Gel Serials
-[GelSight]():The first gel based sensors to detect surface details.<br>
-
+- [GelSight](https://people.csail.mit.edu/kimo/gelsight/): `The first gel based sensors to detect surface details`. :bookmark_tabs: [[paper3](https://pubmed.ncbi.nlm.nih.gov/29186053/)] [[paper2](https://people.csail.mit.edu/kimo/publications/microgeometry/microgeometry.pdf)]  [[paper1](https://people.csail.mit.edu/kimo/publications/retrographic/sensor.pdf)]   :mortar_board: [[Kimo](https://people.csail.mit.edu/kimo/)]  [[Adelson](http://persci.mit.edu/people/adelson)]
+  <img width="800" alt="RetrographicSensing" src="https://user-images.githubusercontent.com/22866605/204216823-c2682f90-865c-4100-a7b8-161cb54363b3.png">
+  <img width="800" alt="MicrogeometryCapture" src="https://user-images.githubusercontent.com/22866605/204216969-d36de41e-51f1-44e6-abd5-6ffae497ee2d.png">
+  <br>
+  
+- [GelSight Wedge](http://gelsight.csail.mit.edu/wedge/): `GelSight Wedge sensor, which is optimized to have a compact shape for robot fingers, which can achieve high-resolution 3D reconstruction.` :bookmark_tabs: [[paper](http://gelsight.csail.mit.edu/wedge/ICRA2021_Wedge.pdf)(ICRA21)]
+  <img width="800" alt="Wedge" src="https://user-images.githubusercontent.com/22866605/204221118-577cb2ca-9bf9-4613-99ac-469a5d371a0e.png">
+  <br>
+  
+  
+  
+  
+  
 [GelSlim]()<br>
-[Gel]()<br>
 [Digit]()<br>
 [Pytouch](https://github.com/facebookresearch/PyTouch)
 <br>
@@ -56,13 +70,17 @@ balabalab
 <br>
 
 ### ③ Physical Serials
-<br>
+  3.
+  2. 
+  1. 
 
 
 ---
 <br><br>
 ## III. Hardwares
 balbabalba
+  
+  [https://github.com/gelsightinc]()
 
 
 ---
@@ -74,10 +92,18 @@ balbabalb
 
 ---
 <br><br>
-## V. Papers
-balalbabal
+## V. Research Papers
+> new papers will be added on the top
 
+  
+  + (Science Advances) **Ultraflexible organic photonic skin.** [[paper](https://www.science.org/doi/full/10.1126/sciadv.1501856)]<br>
+    - `This paper`
+  + (Science) **A skin-inspired organic digital mechanoreceptor.** [[paper](https://www.science.org/doi/full/10.1126/science.aaa9306)]
+    - `This paper`
+  + 🌟 (Science Robotics) **A neuro-inspired artificial peripheral nervous system for scalable electronic skins**
+  
+  
+  
+  
 [^_^]: # 「」『』▍▏▷ ◁ ▶ ◀ △▽▲▼➥ 和 → 还有 ˉˉ↴ 以及 ➨ ☛ ☑ 和 ✔ ✘✄ ❐ ✚ ☷ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
-
-
-
+[^_^]: https://www.nature.com/search?q=tactile%20&%20review&journal=ncomms,%20nature,%20neuro&date_range=last_5_years&order=relevance
