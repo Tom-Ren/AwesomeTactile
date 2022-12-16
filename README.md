@@ -19,7 +19,7 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
 ` This part collectes reviews of tactile research, from biological theoories to technical implementations. `
 ### ① Theoritical Basis
 1. (Nature Reviews Neuroscience) **Coding and use of tactile signals from the fingertips in object manipulation tasks.** [[paper](https://www.nature.com/articles/nrn2621)]
-- ```This paper provides the basis tactile and control mechanisim of finger manipulation tasks. It describles the tactile infomation and encoding process (statistics and timing spikes), as well as the multimodal representations.```
+- ```This paper provides the basis tactile and control mechanisim of finger manipulation tasks. It describles the tactile infomation and encoding process (statistics and timing spikes), as well as the multimodal representations.```<br>
 <img width="430" alt="touch" src="https://user-images.githubusercontent.com/22866605/204191542-be282585-e2b8-4206-a48f-773f3f2fd9c8.png"><img width="370" alt="manipulate" src="https://user-images.githubusercontent.com/22866605/204192539-a93ff943-f264-4480-b0d9-f00f93f43e5a.png"><img width="800" alt="signle" src="https://user-images.githubusercontent.com/22866605/204191443-d1310c93-5afe-4ae2-9fc1-478b04438c14.png">
 
 2. (Science Robotics) **Neuro-inspired electronic skin for robots.** [[paper](https://www.science.org/doi/10.1126/scirobotics.abl7344)]
