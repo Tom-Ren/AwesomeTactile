@@ -89,7 +89,7 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
 <br>  
   
 ### ② Elec Serials
-  - [Tactile glove](https://www.nature.com/articles/s41586-019-1234-z): `is a low-cost, scalable tactile glove which contains 548 force sensors and can recognize 26 general objects.` 📑[[paper](https://www.nature.com/articles/s41586-019-1234-z)] [[intro](https://www.nature.com/articles/s41928-019-0268-4)]   🎓[[Subramanian Sundaram](https://subras.github.io/)] 
+  - [Tactile glove](https://www.nature.com/articles/s41586-019-1234-z): `is a low-cost, scalable tactile glove which contains 548 force sensors and can recognize 26 general objects.` 📑[[paper](https://www.nature.com/articles/s41586-019-1234-z)] [[intro](https://www.nature.com/articles/s41928-019-0268-4)]     :octocat:[[project](http://stag.csail.mit.edu/)]    🎓[[Subramanian Sundaram](https://subras.github.io/)] 
   <img width="800" alt="Tactile glove" src="https://user-images.githubusercontent.com/22866605/208057284-56b84c0c-5db0-4c24-b270-fa2e747bd244.png">
   <br>
   
