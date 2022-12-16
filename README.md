@@ -166,11 +166,30 @@ balbabalb
     - `This paper`
   + 🌟 (Science Robotics) **A neuro-inspired artificial peripheral nervous system for scalable electronic skins**
   
+  + (Soft Robotics) **Smart Skin: Vision-Based Soft Pressure Sensing System for In-Home Hand Rehabilitation** [[paper](https://www.liebertpub.com/doi/10.1089/soro.2020.0083)]
+    - `This paper proposed Smart Skin with colored fluid rises and fills in the top surface display area to sense grip forces. When compress the sensor, the fluid with flow to channel and caputred by camera.` 
+    <img width="350" alt="press" src="https://user-images.githubusercontent.com/22866605/208065607-6b92b536-a7c3-4f41-9833-a9940b37c708.png">
+    <img width="415" alt="pre" src="https://user-images.githubusercontent.com/22866605/208065650-ffa0d042-33c2-41af-8ee0-715b8ef8a47b.png">
+
+  + (Soft Robotics) **Designing a Contact Fingertip Sensor Made Using a Soft 3D Printing Technique** [[paper](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0128)]
+    - `This paper builds strain sensors made of sensitive, thin, and conductive channels printed inside a soft matrix with 3D print. The (ink) beam with conductive lines exhibits a quasi-linear electrical response  and can act as mechanical diodes, can simultaneously measure normal and tangential forces.'
+    <img width="400" alt="ink" src="https://user-images.githubusercontent.com/22866605/208069582-a9a014c4-6371-4a26-adb9-cfa6b4550e24.png">
+    <img width="310" alt="shape" src="https://user-images.githubusercontent.com/22866605/208069530-d907bc66-6e30-43bf-bf7b-d2d76ce30125.png">
+
+  + (Soft Robotics) **Multidimensional Tactile Sensor with a Thin Compound Eye-Inspired Imaging System** [[paper](https://www.liebertpub.com/doi/10.1089/soro.2020.0202)]  [[MLA](https://arxiv.org/ftp/arxiv/papers/2204/2204.08691.pdf)]  [[DelTact](https://arxiv.org/pdf/2202.02179.pdf)]  [[Viko 2.0](https://arxiv.org/pdf/2204.10082.pdf)]  🎓[[Hongyu Yu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hongyu-yu-hongyuyu#publications)]
+    - 'This paper takes pinholes as compound eye to achieve visual-touch sensing which directly capture deformation images fo elastomer layer to percepte tactile.'
+    <img height="250" alt="all" src="https://user-images.githubusercontent.com/22866605/208071860-a0781630-bc7c-4316-80f0-66cded3195e4.png">
+    <img height="250" alt="image" src="https://user-images.githubusercontent.com/22866605/208071892-ce739a07-b190-416d-a62d-5a1751957b79.png">
+
+
+
+
+  
   
   
 
   
   
 [^_^]: Todo: https://sferrazza.cc/   https://raffaello.name  https://www.frontiersin.org/articles/10.3389/fphys.2020.611596/full https://www.mdpi.com/2079-6374/4/4/422 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724612/   https://www.mdpi.com/2079-4983/6/2/204/htm     Novel Tactile Sensor Technology and Smart TactileSensing Systems: A Review   https://www.engineering.columbia.edu/faculty/matei-ciocarlie   resource: https://techxplore.com/search/?search=tactile
-[^_^]: # 「」『』▍▏▷ ◁ ▶ ◀ △▽▲▼➥ 和 → 还有 ˉˉ↴ 以及 ➨ ☛ ☑ 和 ✔ ✘✄ ❐ ✚ ☷ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
+[^_^]: # 「」『』▍▏▷ ◁ ▶ ◀ △▽▲▼➥ 和 → 还有 ˉˉ↴ 以及 ➨ ☛ ☑ 和 ✔ ✘✄ ❐ ✚ ☷ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ 🎓
 [^_^]: https://www.nature.com/search?q=tactile%20&%20review&journal=ncomms,%20nature,%20neuro&date_range=last_5_years&order=relevance
