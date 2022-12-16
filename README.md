@@ -100,10 +100,28 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
 ---
 <br><br>
 ## III. Hardwares
-balbabalba
+```Tactile sensors are developed and commercialized in robotics, metrology and related percepetion. This part will introduce existing sensors and equipements which are public avaliable and purchaseable, that give us a reference for next generation tactile sensors development.```<br>
   
-  [https://github.com/gelsightinc]()
+  
+### ① [GelSight, Inc.](https://www.gelsight.com/)
+GelSight, Inc. is the commercialization organization of [GelSight]() research, they two tactile products, mesurement focused GelSight [Mobile](https://www.gelsight.com/solutions/surface-metrology-mobile/) (with micrometer accuracy) and robotics focused GelSight [Mini](https://www.gelsight.com/gelsightmini/) (with 25fps velocity).   :computer:[Code](https://github.com/gelsightinc) and  :clapper:[Video](https://www.youtube.com/@GelSight) introduction are availiable.<br>
+  <img width="800" alt="图片" src="https://user-images.githubusercontent.com/22866605/208018443-a0cc7b36-f760-4e9f-a7b4-ca15f3ab8b86.png">
+  <img width="800" alt="图片" src="https://user-images.githubusercontent.com/22866605/208018258-7e37e6d1-6cfe-453f-a027-ef7d1fa56769.png">
+<br>
 
+### ② [SynTouch, Inc.](https://syntouchinc.com/)
+  SynTouch, Inc, is a touch sensor company with various **force** and touch sensors production. They begin from the research in Department of Biomedical Engineering at the University of Southern California. They have multiple [touch sensors](https://syntouchinc.com/robotics/), BioTac, BioTac SP and NumaTac; haptics model and touch dataset. The BioTac has a rigid core surrounded by an elastic liquid-filled skin as human fingertip, with force, vibration, and temperature sensing abilities. Furthermore, NomaTac eliminates insensitive dead spots and vulnerable edges and absorbs the energy of collisions, improves durability. 📋 [Annal Report](https://www.sec.gov/Archives/edgar/data/1728560/000172856019000002/FormC1.pdf) and 📄 [Brochure](https://syntouchinc.com/wp-content/uploads/2017/01/BioTac-Brochure.pdf), 🗂 [resource](https://syntouchinc.com/resources/)<br>
+  <img height="200" alt="BioTac" src="https://user-images.githubusercontent.com/22866605/208024133-3d2ebc43-c846-46db-8539-ed0c2c510220.png">
+  <img height="200" alt="BioTac SP" src="https://user-images.githubusercontent.com/22866605/208024150-adc01349-3ddf-4c97-870c-f01fe3d36320.png">
+  <img height="200" alt="Numa" src="https://user-images.githubusercontent.com/22866605/208024303-2261453b-78d3-465b-ae20-321f72e8c8f7.png">
+<br>
+  
+
+### ③ []()
+
+
+  
+  
 
 ---
 <br><br>
