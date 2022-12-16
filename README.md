@@ -82,13 +82,21 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
   <br>
 
 
-- [TacTip](https://www.bristolroboticslab.com/tactile-robotics): `3D printed open-source tactile sensors family.They adopt biomimetic design to record deformation when sensor touch object, with an substituting papillae and internal pins on the inside of its skin. Tracking pins can provide shape deformation (and force various) infomation.` 📑 [[paper](https://www.liebertpub.com/doi/full/10.1089/soro.2017.0052)]  [[ieee papers](https://ieeexplore.ieee.org/author/37399610200)]   🎓[[Nathan Lepora](https://lepora.com/)] [[Qiang Li](https://sites.google.com/site/qiangliresearch/qiang-li-s-homepage)] :octocat: [[OpenTacTip](https://softroboticstoolkit.com/tactip)]  📚  [[tutorial](https://sites.google.com/view/tactile-servoing/home)]  [[review18](https://ieeexplore.ieee.org/document/8453829)]   [[review21](https://ieeexplore.ieee.org/document/9499032) [arxiv](https://arxiv.org/abs/2105.14455)]<br>
+- [TacTip](https://www.bristolroboticslab.com/tactile-robotics): `3D printed open-source tactile sensors family.They adopt biomimetic design to record deformation when sensor touch object, with an substituting papillae and internal pins on the inside of its skin. Tracking pins can provide shape deformation (and force various) infomation.` 📑 [[paper](https://www.liebertpub.com/doi/full/10.1089/soro.2017.0052)]  [[ieee papers](https://ieeexplore.ieee.org/author/37399610200)]   🎓[[Nathan Lepora](https://lepora.com/)] [[Qiang Li](https://sites.google.com/site/qiangliresearch/qiang-li-s-homepage)] :octocat: [[OpenTacTip](https://softroboticstoolkit.com/tactip)]  📚 [[tutorial](https://sites.google.com/view/tactile-servoing/home)]  [[review18](https://ieeexplore.ieee.org/document/8453829)]   [[review21](https://ieeexplore.ieee.org/document/9499032) [arxiv](https://arxiv.org/abs/2105.14455)]<br>
   <img width="445" alt="tacto" src="https://user-images.githubusercontent.com/22866605/204427259-2df22498-c54f-4b78-9505-c2ab9a8ac419.png"><img width="355" alt="tacto" src="https://user-images.githubusercontent.com/22866605/204427397-8efee587-ef6c-4c0c-bb2c-157b38c96b41.png">
 
   
 <br>  
   
 ### ② Elec Serials
+  - [Tactile glove](https://www.nature.com/articles/s41586-019-1234-z): `is a low-cost, scalable tactile glove which contains 548 force sensors and can recognize 26 general objects.` 📑[[paper](https://www.nature.com/articles/s41586-019-1234-z)] [[intro](https://www.nature.com/articles/s41928-019-0268-4)]   🎓[[Subramanian Sundaram](https://subras.github.io/)] 
+  <img width="800" alt="Tactile glove" src="https://user-images.githubusercontent.com/22866605/208057284-56b84c0c-5db0-4c24-b270-fa2e747bd244.png">
+  <br>
+  
+  - [Italy Tactile Reseach](https://r8.ieee.org/italy-sensors/tactile-sensors/): `The Italian community working is the tactile sensing field, the areas of interest span e.g. human physiology, neuroscience, material science, electronics, robotics, bioengineering.` 🎓[[Maurizio Valle ](https://www.researchgate.net/profile/Maurizio-Valle)]
+  <img width="600" alt="Tactile hand" src="https://user-images.githubusercontent.com/22866605/208052864-0986a22a-aab8-4153-b9d3-56bb98e58327.png">
+  <br>
+  
 <br>
 
 ### ③ Physical Serials
@@ -104,20 +112,36 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
   
   
 ### ① [GelSight, Inc.](https://www.gelsight.com/)
-GelSight, Inc. is the commercialization organization of [GelSight]() research, they two tactile products, mesurement focused GelSight [Mobile](https://www.gelsight.com/solutions/surface-metrology-mobile/) (with micrometer accuracy) and robotics focused GelSight [Mini](https://www.gelsight.com/gelsightmini/) (with 25fps velocity).   :computer:[Code](https://github.com/gelsightinc) and  :clapper:[Video](https://www.youtube.com/@GelSight) introduction are availiable.<br>
+GelSight, Inc. is the commercialization organization of [GelSight](https://people.csail.mit.edu/kimo/gelsight/) research, they two tactile products, mesurement focused GelSight [Mobile](https://www.gelsight.com/solutions/surface-metrology-mobile/) (with micrometer accuracy) and robotics focused GelSight [Mini](https://www.gelsight.com/gelsightmini/) (with 25fps velocity).   :computer:[Code](https://github.com/gelsightinc) and  :clapper:[Video](https://www.youtube.com/@GelSight) introduction are availiable.<br>
   <img width="800" alt="图片" src="https://user-images.githubusercontent.com/22866605/208018443-a0cc7b36-f760-4e9f-a7b4-ca15f3ab8b86.png">
   <img width="800" alt="图片" src="https://user-images.githubusercontent.com/22866605/208018258-7e37e6d1-6cfe-453f-a027-ef7d1fa56769.png">
-<br>
+<br><br>
 
 ### ② [SynTouch, Inc.](https://syntouchinc.com/)
-  SynTouch, Inc, is a touch sensor company with various **force** and touch sensors production. They begin from the research in Department of Biomedical Engineering at the University of Southern California. They have multiple [touch sensors](https://syntouchinc.com/robotics/), BioTac, BioTac SP and NumaTac; haptics model and touch dataset. The BioTac has a rigid core surrounded by an elastic liquid-filled skin as human fingertip, with force, vibration, and temperature sensing abilities. Furthermore, NomaTac eliminates insensitive dead spots and vulnerable edges and absorbs the energy of collisions, improves durability. 📋 [Annal Report](https://www.sec.gov/Archives/edgar/data/1728560/000172856019000002/FormC1.pdf) and 📄 [Brochure](https://syntouchinc.com/wp-content/uploads/2017/01/BioTac-Brochure.pdf), 🗂 [resource](https://syntouchinc.com/resources/)<br>
+  `SynTouch, Inc, is a touch sensor company with various **force** and touch sensors production. They begin from the research in Department of Biomedical Engineering at the University of Southern California. They have multiple [touch sensors](https://syntouchinc.com/robotics/), BioTac, BioTac SP and NumaTac; haptics model and touch dataset. The BioTac has a rigid core surrounded by an elastic liquid-filled skin as human fingertip, with force, vibration, and temperature sensing abilities. Furthermore, NomaTac eliminates insensitive dead spots and vulnerable edges and absorbs the energy of collisions, improves durability.` 📋 [Annal Report](https://www.sec.gov/Archives/edgar/data/1728560/000172856019000002/FormC1.pdf) and 📄 [Brochure](https://syntouchinc.com/wp-content/uploads/2017/01/BioTac-Brochure.pdf), 🗂 [resource](https://syntouchinc.com/resources/)<br>
   <img height="200" alt="BioTac" src="https://user-images.githubusercontent.com/22866605/208024133-3d2ebc43-c846-46db-8539-ed0c2c510220.png">
   <img height="200" alt="BioTac SP" src="https://user-images.githubusercontent.com/22866605/208024150-adc01349-3ddf-4c97-870c-f01fe3d36320.png">
   <img height="200" alt="Numa" src="https://user-images.githubusercontent.com/22866605/208024303-2261453b-78d3-465b-ae20-321f72e8c8f7.png">
-<br>
+<br><br>
   
 
-### ③ []()
+### ③ [TekScan](https://www.tekscan.com/tactile-pressure-sensors)
+  `This serial are ultra thin, flexible pressure sensors by film printed circuit with high resolution.`  📦[Products](https://www.tekscan.com/tactile-pressure-sensors)
+  <img height="200" alt="sample" src="https://user-images.githubusercontent.com/22866605/208051820-498d9273-4237-4eca-8564-fbb9b0b71a89.png">
+  <img height="200" alt="princeple" src="https://user-images.githubusercontent.com/22866605/208051875-568c3690-bff6-46e0-a48e-7bfab58beced.png">
+<br><br>
+  
+### ④ [Touchance](http://touchence.jp/en/products/)
+  `Touchace produce various displacement, (6D) force, texture, and tactile sensors.`
+  <img width="800" alt="Touchance" src="https://user-images.githubusercontent.com/22866605/208054976-d1376142-6860-4deb-9921-e59c56f5159e.png">
+
+  
+### ⑤ [Weiss](http://www.eu-robotics-sme.org/weiss-robotics-gmbh-co-kg/)
+  `The WTS series includes a range of intelligent tactile sensor modules with integrated signal processor, with highly sensitive sensor matrix that allows a precise detection of very light contact forces.`
+  <img width="800" alt="WTS" src="https://user-images.githubusercontent.com/22866605/208060385-661b8815-38e1-4d51-9043-b85699e11ee2.png">
+
+
+
 
 
   
@@ -144,6 +168,9 @@ balbabalb
   
   
   
+
   
+  
+[^_^]: Todo: https://sferrazza.cc/   https://raffaello.name  https://www.frontiersin.org/articles/10.3389/fphys.2020.611596/full https://www.mdpi.com/2079-6374/4/4/422 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724612/   https://www.mdpi.com/2079-4983/6/2/204/htm     Novel Tactile Sensor Technology and Smart TactileSensing Systems: A Review   https://www.engineering.columbia.edu/faculty/matei-ciocarlie   resource: https://techxplore.com/search/?search=tactile
 [^_^]: # 「」『』▍▏▷ ◁ ▶ ◀ △▽▲▼➥ 和 → 还有 ˉˉ↴ 以及 ➨ ☛ ☑ 和 ✔ ✘✄ ❐ ✚ ☷ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩
 [^_^]: https://www.nature.com/search?q=tactile%20&%20review&journal=ncomms,%20nature,%20neuro&date_range=last_5_years&order=relevance
