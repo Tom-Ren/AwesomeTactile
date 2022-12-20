@@ -166,6 +166,17 @@ balbabalb
     - `This paper`
   + 🌟 (Science Robotics) **A neuro-inspired artificial peripheral nervous system for scalable electronic skins**
   
+  [^_^]:
+  TodoPapers:
+  + (1. Science Review)[Electronic skins and machine learning for intelligent soft robots](https://www.science.org/doi/full/10.1126/scirobotics.aaz9239)
+  + (2. Nature review)[A mechanism for touch](https://www.nature.com/articles/d41586-019-02454-2)
+  + (🖐🏻Nature sense)[The neural mechanisms of manual dexterity](https://www.nature.com/articles/s41583-021-00528-7)
+  + (Nature sense)[The encoding of touch by somatotopically aligned dorsal column subdivisions](https://www.nature.com/articles/s41586-022-05470-x)   
+  + (Science Robotics) [A skin-inspired tactile sensor for smart prosthetics](https://www.science.org/doi/abs/10.1126/scirobotics.aat0429)
+  + (Science Robotics) [A hierarchically patterned, bioinspired e-skin able to detect the direction of applied pressure for robotics](https://www.science.org/doi/10.1126/scirobotics.aau6914)
+  
+  
+  
   + (Soft Robotics) **Smart Skin: Vision-Based Soft Pressure Sensing System for In-Home Hand Rehabilitation** [[paper](https://www.liebertpub.com/doi/10.1089/soro.2020.0083)]
     - `This paper proposed Smart Skin with colored fluid rises and fills in the top surface display area to sense grip forces. When compress the sensor, the fluid with flow to channel and caputred by camera.` 
     <img width="350" alt="press" src="https://user-images.githubusercontent.com/22866605/208065607-6b92b536-a7c3-4f41-9833-a9940b37c708.png">
